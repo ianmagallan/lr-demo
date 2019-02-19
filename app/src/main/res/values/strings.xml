@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">LoginRadius</string>
+    <string name="facebook_app_id">376819296203344</string>
+    <string name="fb_login_protocol_scheme">fb376819296203344</string>
+    <string name="site_name">lr-candidate-mobile-1</string>
+    <string name="api_key">57d1665a-65ed-47a6-9c2f-4c1a0e33c7bd</string>
+    <string name="sott_key">bfVQfFD0ooUs3SN6FsV/1tewmWkHN7SgLtGGp20Ufkhi1t8WmmrlcOoqSMFBsWmqyFqIT14//J6AD/lEdRO2mY9DXa0BjGfsWRsjKyST7nQ=*315a64cf70704f1478fc8d74d968130b</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="general_error">Error</string>
+    <string name="general_ok">Ok</string>
+    <string name="general_cancel">Cancel</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_re_password">Rewrite your password</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_surname">Last name</string>
+    <string name="update_title">Update</string>
+    <string name="update_message_successful">Your data has been updated successfully</string>
+    <string name="logout_title">Logout</string>
+    <string name="logout_message">Are you sure that you want to log out?</string>
+    <string name="recover_title">Recover</string>
+    <string name="recover_message">We sent you an email with a link to restore your password.</string>
+    <string name="register_title">Register</string>
+    <string name="register_message">You have been registered successfully. Check your email and verify your account.</string>
+    <string name="login_forgot">Forgot your password?</string>
+    <string name="login_register">Create an account</string>
+    <string name="login_or">OR</string>
+    <string name="login_sign_in">Sign in</string>
+    <string name="login_sign_in_facebook">Sign in with Facebook</string>
+    <string name="login_sign_in_google">Sign in with Google</string>
+    <string name="login_sign_in_twitter">Sign in with Twitter</string>
+    <string name="forgot_enter_email">Enter your email direction to recover your password</string>
+    <string name="forgot_recover">Recover</string>
+    <string name="profile_title">Profile</string>
+    <string name="profile_logged">Logged from</string>
+    <string name="profile_unknown">Unknown</string>
+    <string name="register_account">Account data</string>
+    <string name="register_personal">Personal data</string>
+    <string name="register_register">Register</string>
+    <string name="edit_title">Edit</string>
+    <string name="warning_email_valid">Email must be a valid direction</string>
+    <string name="warning_equal_passwords">Passwords must be equal</string>
+    <string name="warning_password_min">Passwords should have at least 6 characters</string>
+</resources>

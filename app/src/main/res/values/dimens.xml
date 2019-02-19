@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="general_input_width">250dp</dimen>
+    <dimen name="general_input_height">40dp</dimen>
+    <dimen name="general_sides_padding">15dp</dimen>
+    <dimen name="general_top_bottom_padding">7dp</dimen>
+    <dimen name="login_social_button_width">250dp</dimen>
+    <dimen name="login_social_button_height">40dp</dimen>
+
+</resources>
